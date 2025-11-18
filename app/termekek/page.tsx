@@ -1,7 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
-import { BookOpen, Calendar, Check, Star } from "lucide-react";
+import { BookOpen, Calendar, Star } from "lucide-react";
 
 export const metadata = {
   title: "Termékek - Kincseskönyv",
